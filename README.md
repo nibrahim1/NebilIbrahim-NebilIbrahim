@@ -27,7 +27,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-008080?style=for-the-badge&logo=sharepoint&logoColor=white)
 ![SPFX](https://img.shields.io/badge/SPFx-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Dynamics 365](https://img.shields.io/badge/Dynamics-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Microsoft Office 365](https://img.shields.io/badge/Microsoft_Office365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)

@@ -21,7 +21,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Data Verse](https://img.shields.io/badge/Dataverse-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Data Verse](https://img.shields.io/badge/DataVerse-339933?style=for-the-badge&logo=dataverse&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
